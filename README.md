@@ -40,7 +40,7 @@ medicalQA/
 
 2. Prepare knowledge graph data:
    - Place DrugBank database files in `data/ddb/`
-   - You can download it here.
+   - You can find more information [here](https://arxiv.org/abs/2104.06378).
 
 ## Running the Code
 
