@@ -2,7 +2,7 @@
 
 
 This repository contains code for our AMIA'2024 paper "MKRAG: Medical Knowledge Retrieval Augmented Generation for Medical Question Answering".
-
+![MKRAG](https://github.com/sycny/sycny.github.io/blob/main/images/AMIA.png)
 ## Overview
 
 The system combines:
